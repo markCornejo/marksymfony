@@ -4,6 +4,7 @@ Symfony Standard Edition
 prueba1
 prueba2
 prueba3
+prueba4
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony
 application that you can use as the skeleton for your new applications.
